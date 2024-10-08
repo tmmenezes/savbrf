@@ -1,0 +1,4 @@
+cmake - conda install anaconda::cmake
+dlib - conda install conda-forge::dlib
+face-recognition - conda install conda-forge::face_recognition
+py-opencv - conda install conda-forge::opencv
