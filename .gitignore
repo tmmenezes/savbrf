@@ -1,0 +1,4 @@
+# Regras de diretórios/arquivos a serem ignorados do upload do git
+
+#ignorar imagens do diretório de teste
+Tests/
